@@ -1,0 +1,17 @@
+.SearchBlock {
+    flex-basis: auto;
+    border-radius: 8px;
+    border: 15px solid green;
+    padding: 30px;
+  }
+  .ResultBlock {
+    flex-basis: auto;
+    border-radius: 8px;
+    border: 15px solid rgb(128, 0, 0);
+    padding: 30px;
+    margin-top: 10px;
+  }
+
+  input {
+      width: 100%;
+  }
